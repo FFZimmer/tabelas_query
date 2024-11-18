@@ -1,0 +1,5 @@
+INSERT INTO aluno (id, nome, data_nascimento)
+VALUES 
+(1, 'Alice Silva', '2005-03-15'),
+(2, 'Bruno Pereira', '2004-07-22'),
+(3, 'Carla Rocha', '2005-11-05');
